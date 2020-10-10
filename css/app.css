@@ -1,0 +1,27 @@
+body{
+    background-color: #f2f2f2;
+    background-image: url("../imgs/ZA 1903.jpg");
+    background-repeat: no-repeat;/* no-repeat repeat repeat-x repeat-y */
+    background-size: cover;
+}
+h1{
+    color: #608812; /* 0 - 255   rgb(255,255,255) --  00 - FF #ffffff*/
+    font-size: 20px;
+    line-height: 60px;
+    text-align: center;
+}
+p{
+    color:#232323;
+    font-size: 14px;
+    line-height: 1.25;
+    font-family: "SansSerif";
+    font-weight: normal;/*  thin light normal medium semi-bold bold extra-bold black */
+    text-align: center; /* left center right justify */
+    text-decoration:none;/* underline line-through overline*/
+    text-transform: none;/* uppercase lowercase capitalize none*/
+    /*background-color: #f2f2f2;*/
+}
+a{
+    text-decoration: none;
+    color: red;
+}
