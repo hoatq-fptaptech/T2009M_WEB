@@ -39,3 +39,27 @@ img{
     font-size: 150px;
     color: green;
 }
+/*input[type="text"]{*/
+/*    font-size: 15px;*/
+/*    color: red;*/
+/*    padding: 5px 10px;*/
+/*    width: 250px;*/
+/*}*/
+/*input[type="email"]{*/
+/*    font-size: 15px;*/
+/*    color: red;*/
+/*    padding: 5px 10px;*/
+/*    width: 250px;*/
+/*}*/
+/*input[name="pwd"]{*/
+/*    font-size: 15px;*/
+/*    color: red;*/
+/*    padding: 5px 10px;*/
+/*    width: 250px;*/
+/*}*/
+select[name="city"]{
+    font-size: 15px;
+    color: red;
+    padding: 5px 10px;
+    width: 250px;
+}
