@@ -5,6 +5,7 @@ function nav() {
         "            <li><a href=\"#\">Category #2</a></li>\n" +
         "            <li><a href=\"#\">Category #3</a></li>\n" +
         "            <li><a href=\"#\">Category #4</a></li>\n" +
+        "            <li><a href=\"#\">Category #5</a></li>\n" +
         "            <li class=\"last-item\"><a href=\"#\">Get Genisis Now!</a></li>\n" +
         "        </ul>\n" +
         "    </div>";
