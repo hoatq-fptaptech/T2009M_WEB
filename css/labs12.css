@@ -48,16 +48,22 @@ img{
 .item .add-to-cart:hover{
     background-color: #baadad;
 }
+.item .star{
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+}
 .item .star-box{
     float: left;
-    width: 395px;
-    height: 72px;
+    margin-left: calc((100% - 160px)/2);
+    width: 160px;
+    height: 32px;
     background-image: url("../imgs/star-off.png");
     background-repeat: repeat-x;
 }
 .item .star-box .star-rate{
     float: left;
-    height: 72px;
+    height: 32px;
     background-image: url("../imgs/star-on.png");
     background-repeat: repeat-x;
 }
